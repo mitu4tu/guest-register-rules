@@ -1,5 +1,5 @@
 section,key,value
-meta,version,2026-10-19.2
+meta,version,2026-10-19.3
 ical,event_begin,BEGIN:VEVENT
 ical,start_prefix,DTSTART;VALUE=DATE:
 ical,end_prefix,DTEND;VALUE=DATE:
@@ -14,6 +14,8 @@ tally,max_guests,8
 report,categories,日本|韓国|台湾|香港|中国|タイ|シンガポール|マレーシア|インドネシア|フィリピン|ベトナム|インド|英国|ドイツ|フランス|イタリア|スペイン|ロシア|米国|カナダ|オーストラリア|その他
 report,months,2|4|6|8|10|12
 report,deadline_day,15
+report,period_year_basis,fiscal
+report,fiscal_year_start_month,4
 country,日本,日本
 country,Japan,日本
 country,中国,中国
