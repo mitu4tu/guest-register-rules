@@ -1,9 +1,10 @@
 section,key,value
-meta,version,2026-10-19.3
+meta,version,2026-10-19.4
 ical,event_begin,BEGIN:VEVENT
 ical,start_prefix,DTSTART;VALUE=DATE:
 ical,end_prefix,DTEND;VALUE=DATE:
 ical,code_pattern,HM[A-Z0-9]+
+ical,keep_days,365
 tally,code_col,rn
 tally,guests_col,bi_guestnum
 tally,submitted_col,Submitted at
@@ -39,4 +40,6 @@ country,United Kingdom,英国
 country,United States,米国
 country,Việt Nam,ベトナム
 country,Other,その他
+license,url,https://raw.githubusercontent.com/mitu4tu/guest-register-rules/main/licenses.csv
+license,default_listings,1
 notice,message,
