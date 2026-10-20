@@ -1,0 +1,45 @@
+section,key,value
+meta,version,2026-10-19.4
+ical,event_begin,BEGIN:VEVENT
+ical,start_prefix,DTSTART;VALUE=DATE:
+ical,end_prefix,DTEND;VALUE=DATE:
+ical,code_pattern,HM[A-Z0-9]+
+ical,keep_days,365
+tally,code_col,rn
+tally,guests_col,bi_guestnum
+tally,submitted_col,Submitted at
+tally,nationality_col_prefix,nationality_
+tally,country_col_prefix,country_
+tally,japan_value_prefix,1. Japan
+tally,max_guests,8
+report,categories,日本|韓国|台湾|香港|中国|タイ|シンガポール|マレーシア|インドネシア|フィリピン|ベトナム|インド|英国|ドイツ|フランス|イタリア|スペイン|ロシア|米国|カナダ|オーストラリア|その他
+report,months,2|4|6|8|10|12
+report,deadline_day,15
+report,period_year_basis,fiscal
+report,fiscal_year_start_month,4
+country,日本,日本
+country,Japan,日本
+country,中国,中国
+country,한국,韓国
+country,台灣,台湾
+country,香港,香港
+country,Australia,オーストラリア
+country,Canada,カナダ
+country,Deutschland,ドイツ
+country,España,スペイン
+country,France,フランス
+country,भारत,インド
+country,Indonesia,インドネシア
+country,Italia,イタリア
+country,Malaysia,マレーシア
+country,Pilipinas,フィリピン
+country,Россия,ロシア
+country,Singapore,シンガポール
+country,ไทย,タイ
+country,United Kingdom,英国
+country,United States,米国
+country,Việt Nam,ベトナム
+country,Other,その他
+license,url,https://raw.githubusercontent.com/mitu4tu/guest-register-rules/main/licenses.csv
+license,default_listings,1
+notice,message,

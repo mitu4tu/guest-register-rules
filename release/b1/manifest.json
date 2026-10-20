@@ -1,0 +1,30 @@
+{
+  "seq": 1,
+  "version": "2026.10.20-1",
+  "min_bootstrap": 1,
+  "layout": 1,
+  "admin_gen": 0,
+  "revoked_keys": [],
+  "revoked": [],
+  "disable_remote": false,
+  "requires_click": false,
+  "rebuild": false,
+  "notice": "",
+  "files": {
+    "logic": {
+      "path": "blobs/9f17e612629ece0bf520063cb8175c699258fe4a400a6a38c99d95e2da8da85d.js",
+      "sha256": "9f17e612629ece0bf520063cb8175c699258fe4a400a6a38c99d95e2da8da85d",
+      "size": 23004
+    },
+    "tabs": {
+      "path": "blobs/ab4e16b5e6ad2eb661dabad2252598a3dc5b7fc1611e427ce1f84981b687aa1d.json",
+      "sha256": "ab4e16b5e6ad2eb661dabad2252598a3dc5b7fc1611e427ce1f84981b687aa1d",
+      "size": 30013
+    },
+    "rules": {
+      "path": "blobs/0474629317da37adf2577bf627b90efe48afecca5e8dc7578225a159ef8c7cab.csv",
+      "sha256": "0474629317da37adf2577bf627b90efe48afecca5e8dc7578225a159ef8c7cab",
+      "size": 1578
+    }
+  }
+}

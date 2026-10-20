@@ -1,0 +1,3 @@
+# Release blobs are content-addressed by sha256 and the manifest signature
+# covers exact bytes. Never convert line endings in this repository.
+* -text
